@@ -1,7 +1,7 @@
 # lc_county_water_district
 
 A project with Lewis and Clark county to consolidate, develop functions to clean reports, visualize with ArcGIS, and analyze various sources of water data.
-Analysis off the surface water levels of well sampled leveraged existing data to assist inform future decision making of the office.  The reserach includes the average
+Analysis of the surface water levels leveraged existing data to inform future decision making of the office.  The reserach includes the average
 percent difference of water levels per well, per time-period, per season and its visualization with ArcGIS.  A  readme file of the exact methods is included in 
 lc_county_water_district folder.  Much of the files include the manipulation of time-series and spatial data. 
 
