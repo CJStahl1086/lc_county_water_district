@@ -8,7 +8,11 @@ lc_county_water_district folder.  Much of the files include the manipulation of 
 The following is a description of each file:
 
 research folder - Includes sample methods, water data, scripts, and in-depth methods in a word document
+
 research_ArcGIS_visualization - Visualization distrubution and spatial data of surface water levels in the county 
+
 dlcleaning_function.ipynb- Creating cleaning fuction tp clean and analyze raw data from a device used to measure stream flow in the county 
+
 dldischarge_merge_clean.ipynb - Creating and merging datalogger data to compare to manually collected data.
+
 wq_merging.ipynb - Creating cleaning function to merge and create a master dataframe for future reports to be added to a geodatabase in ArcGIS
