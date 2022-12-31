@@ -1,9 +1,7 @@
 # lc_county_water_district
 
-A project with Lewis and Clark county to consolidate, develop functions to clean reports, visualize with ArcGIS, and analyze various sources of water data.
-Analysis of the surface water levels leveraged existing data to inform future decision making of the office.  The research includes the average
-percent difference of water levels per well, per time period, per season and its visualization with ArcGIS.  A  word document of the exact methods is included in 
-lc_county_water_district folder.  Much of the files include the manipulation of time-series and spatial data. 
+A project with the county water district to consolidate, develop functions to clean reports, visualize with ArcGIS, and analyze various sources of water data.
+Analysis of the surface water levels leveraged existing data (publicly available through Montana Bureau of Mines and Geology) to inform future decision making of the office.  The research includes the average percent difference of water levels per well, per time period, per season and its visualization with ArcGIS.  A  word document of the exact methods is included in lc_county_water_district folder.  Much of the files include the manipulation of time-series and spatial data. 
 
 The following is a description of each file:
 
