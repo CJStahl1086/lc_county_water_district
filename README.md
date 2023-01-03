@@ -14,3 +14,7 @@ dlcleaning_function.ipynb- Creating cleaning fuction to clean and analyze raw da
 dldischarge_merge_clean.ipynb - Creating and merging data to compare to manually collected data.
 
 wq_merging.ipynb - Creating cleaning function to merge and create a master dataframe for future reports to be added to a geodatabase in ArcGIS
+
+stream_report.ipynb - annual reports of the average cfs per day for  2 local usgs gauges using NWIS API
+
+surface_ground_merge.ipynb - combing and cleaning two dataframes
