@@ -9,7 +9,7 @@ research folder - Includes the water data used, research methods, and the .ipynb
 
 research_ArcGIS_visualization - Visualization of the resulting distrubution and a map of the surface water levels in the county 
 
-data_flow.pdf & er_diagram.pdf - visualization of the er diagram for final database and dataflow 
+data_flow.pdf/er_diagram.pdf - visualization of the er diagram for final database and dataflow 
 
 dlcleaning_function.ipynb- Creating cleaning fuction to clean and analyze raw data from a device used to measure stream flow in the county 
 
