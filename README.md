@@ -5,15 +5,17 @@ Analysis of the surface water levels leveraged existing data (publicly available
 
 The following is a description of each file:
 
-research folder - Includes the water data used, research methods, and the .ipynb files with notes.
+research folder - Includes the water data used, research methods (READ ME File), and the sampling and analysis .ipynb files with notes.
 
-research_ArcGIS_visualization - Visualization of the resulting distrubution and a map of the surface water levels in the county 
+research_ArcGIS_visualization - Visualization of the resulting distrubutions for each season and a map of the surface water levels in the county 
 
 data_flow.pdf/er_diagram.pdf - visualization of the er diagram for final database and dataflow 
 
 dlcleaning_function.ipynb- Creating cleaning fuction to clean and analyze raw data from a device used to measure stream flow in the county 
 
 dldischarge_merge_clean.ipynb - Creating and merging data to compare to manually collected data.
+
+ind_merge_master/(2)/(3)- merging individual reports from various sources
 
 wq_merging.ipynb/ wq_merging2.ipynb - Creating cleaning function to merge and create a master dataframe for future reports to be added to a geodatabase in ArcGIS
 
