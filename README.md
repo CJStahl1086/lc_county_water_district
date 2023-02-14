@@ -15,7 +15,7 @@ dlcleaning_function.ipynb- Creating cleaning fuction to clean and analyze raw da
 
 dldischarge_merge_clean.ipynb - Creating and merging data to compare to manually collected data.
 
-ind_merge_master/(2)/(3)- merging individual reports from various sources
+ind_merge_master/(2)/(3)- merging individual reports from various sources (independent labs and programs)
 
 wq_merging.ipynb/ wq_merging2.ipynb - Creating cleaning function to merge and create a master dataframe for future reports to be added to a geodatabase in ArcGIS
 
